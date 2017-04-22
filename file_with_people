@@ -1,0 +1,21 @@
+<java.util.concurrent.CopyOnWriteArrayList serialization="custom">
+  <java.util.concurrent.CopyOnWriteArrayList>
+    <default/>
+    <int>3</int>
+    <person>
+      <name>jaki</name>
+      <password>81107</password>
+      <rights>23</rights>
+    </person>
+    <person>
+      <name>lili</name>
+      <password>81108</password>
+      <rights>2</rights>
+    </person>
+    <person>
+      <name>mimi</name>
+      <password>81109</password>
+      <rights>3</rights>
+    </person>
+  </java.util.concurrent.CopyOnWriteArrayList>
+</java.util.concurrent.CopyOnWriteArrayList>
